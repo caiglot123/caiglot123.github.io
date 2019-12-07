@@ -6,6 +6,11 @@
  *    user zoom.
  */
 
+@font-face {
+  font-family: "TexHero";
+  src: url("cond-reg.otf");
+  }
+  
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
