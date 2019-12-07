@@ -454,6 +454,14 @@ th {
  * Remove most spacing between table cells.
  */
 /* Split the screen in half */
+
+.hello {
+  position:absolute;
+  left:50%;
+  top:98%;
+  z-index:0;
+  transform: translate(-50%, -50%);
+}
 .split {
   height: 100%;
   width: 50%;
