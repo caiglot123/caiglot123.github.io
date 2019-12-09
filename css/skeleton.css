@@ -429,6 +429,9 @@ there.
 
 
 .ui-state-focus { outline: none; }
+#accordion .ui-state-focus{
+    outline: none;
+}
 
 /* ATTEMPT EXPANDABLE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
