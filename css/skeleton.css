@@ -44,7 +44,7 @@
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
-    width: 100%;
+    width: 90%;
     padding: 0; }
 }
 
@@ -61,12 +61,12 @@
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
-  .two.columns                    { width: 13.3333333333%; }
-  .three.columns                  { width: 22%;            }
+  .two.columns                    { width: 32.3333333333%; }
+  .three.columns                  { width: 32.5%;            }
   .four.columns                   { width: 28.6666666667%; }
   .five.columns                   { width: 39.3333333333%; }
   .six.columns                    { width: 48%;            }
-  .seven.columns                  { width: 56.6666666667%; }
+  .seven.columns                  { width: 37.6666666667%; }
   .eight.columns                  { width: 65.3333333333%; }
   .nine.columns                   { width: 74.0%;          }
   .ten.columns                    { width: 82.6666666667%; }
